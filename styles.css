@@ -13,5 +13,6 @@
 	border:15px;
 	border-style:solid;
 	border-color:blue;
+	box-sizing:border-box;
 	
 }
