@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
+.box1{
+/* 	background-color:rgba(0,0,255,1);
+	width:430px;
+	margin:20px; */
+}
+.box2{
+	width:300px;
+	margin:20px;
+	padding:50px;
+	background-color:lightblue;
+	text-align:center;
+	border:15px;
+	border-style:solid;
+	border-color:blue;
+	
+}
